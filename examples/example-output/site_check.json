@@ -1,0 +1,103 @@
+{
+  "input": "https://www.arizmendibakery.com",
+  "checked_at": "2026-10-14T22:29-04:00",
+  "ssl": {
+    "valid": true,
+    "expires": "2026-12-12",
+    "days_left": 58,
+    "issuer": "Let's Encrypt"
+  },
+  "status": 200,
+  "final_url": "https://www.arizmendibakery.com",
+  "response_seconds": 0.25,
+  "html_kb": 7.0,
+  "server": "Apache",
+  "https": true,
+  "http_redirects_to_https": "unknown (<urlopen error timed out>)",
+  "mobile": {
+    "viewport_meta": "width=780, maximum-scale=3.0",
+    "responsive_hint": false,
+    "media_queries_inline": 0,
+    "tap_to_call_links": []
+  },
+  "seo": {
+    "title": "Arizmendi Bakery",
+    "title_len": 16,
+    "meta_description": null,
+    "h1": [
+      "Arizmendi Bakery"
+    ],
+    "og_image": null,
+    "robots": null,
+    "/robots.txt": 200,
+    "/sitemap.xml": 404
+  },
+  "schema": {
+    "jsonld_types": [],
+    "nap_in_schema": []
+  },
+  "nap_on_page": {
+    "phones": [
+      "(415) 566-3117",
+      "(415) 826-9218",
+      "(510) 268-8849",
+      "(510) 547-0550",
+      "(510) 549-3183"
+    ],
+    "addresses": [
+      "1331 9th Avenue Between Irving and Judah San Francisco, CA 94122 (415) 566-",
+      "1504 Shattuck Avenue Berkeley, CA 94709 (510) 549-3183 Arizmendi Oakland 3265 La",
+      "8849 Arizmendi Emeryville 4301 San Pablo Avenue (@43rd) Emeryville, CA (510) 547-0550 Arizmendi Mission 126",
+      "1331 9th Avenue, San Francisco, CA 94122 | (415) 566-3117 | info@arizmendib"
+    ],
+    "hours_snippets": [
+      "Tuesday - Sunday: 7:30am - 6pm"
+    ],
+    "mentions_pdf_menu": false
+  },
+  "copyright_year": null,
+  "calls_to_action": [
+    "Order Online!",
+    "Today's Menu",
+    "Bread Schedule",
+    "Order Online",
+    "Pizza Menu"
+  ],
+  "images": {
+    "count": 5,
+    "sample_sizes_kb": {
+      "https://www.arizmendibakery.com/themes/arizmendi/images/logo.gif": 5,
+      "https://arizmendibakery.com/system/files/images/day+of+the+dead.thumbnail.jpg": null,
+      "https://www.arizmendibakery.com/images/store2.jpg": 21,
+      "https://arizmendibakery.com/system/files/images/facebook_circl_icon.png": null,
+      "https://arizmendibakery.com/system/files/images/instagram_circle_icon.png": null
+    }
+  },
+  "links": {
+    "checked": 21,
+    "found": 21,
+    "broken": [
+      {
+        "url": "https://www.facebook.com/Arizmendi9thAve",
+        "status": 400,
+        "verdict": "blocked by platform (bots), check in browser"
+      },
+      {
+        "url": "http://lakeshore.arizmendi.coop/",
+        "status": "error: <urlopen error timed out>",
+        "verdict": "unreachable from checker, verify in browser"
+      },
+      {
+        "url": "http://valencia.arizmendi.coop/",
+        "status": "error: <urlopen error timed out>",
+        "verdict": "unreachable from checker, verify in browser"
+      }
+    ],
+    "note": "timeouts/403s can be bot-blocking, not real breakage; recheck in a browser",
+    "social": [
+      "https://www.facebook.com/Arizmendi9thAve",
+      "https://www.instagram.com/arizmendi.9thave"
+    ]
+  },
+  "word_count": 266
+}

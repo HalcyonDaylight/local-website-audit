@@ -1,0 +1,18 @@
+{
+  "name": "local-website-audit",
+  "displayName": "Local Website Audit",
+  "version": "1.1.0",
+  "description": "Audit any local small business website in plain English: checks the site against its Google Business listing (hours, phone, address, link), mobile layout, speed, SSL, broken links, basic local SEO, reviews and calls to action, then writes a friendly one-page report (Markdown + PDF) with the top 3 fixes.",
+  "author": {
+    "name": "Halcyon Days (Jon Day)",
+    "url": "https://halcyondaylight.com"
+  },
+  "homepage": "https://halcyondaylight.com",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "repository": "https://github.com/HalcyonDaylight/local-website-audit",
+  "keywords": ["local-seo", "website-audit", "small-business", "google-business-profile", "mobile", "page-speed", "report"],
+  "category": "productivity",
+  "tags": ["seo", "audit", "small-business", "marketing"],
+  "skills": "./skills/"
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://www.arizmendibakery.com",
+  "errors": [],
+  "phone_width_screenshot": "(not kept: 390px window, not true emulation)",
+  "desktop_screenshot": "desktop.jpg",
+  "speed": {
+    "source": "Lighthouse 12 (local, mobile, simulated throttling)",
+    "performance_score": 96,
+    "first_contentful_paint": "2.0\u00a0s",
+    "largest_contentful_paint": "2.3\u00a0s",
+    "total_blocking_time": "0\u00a0ms",
+    "cumulative_layout_shift": "0",
+    "page_weight": "Total size was 94\u00a0KiB",
+    "mobile_viewport_ok": true,
+    "phone_emulated_screenshot": "phone.jpg"
+  }
+}

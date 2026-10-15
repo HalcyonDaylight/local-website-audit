@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+# local audit runs (keep examples/)
+/out/
+/audits/
+facts.json
